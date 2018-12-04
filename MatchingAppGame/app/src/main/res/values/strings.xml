@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task2_MatchingAppGame</string>
+    <string name="StartBtn">Start Playing the amazing game</string>
+    <string name="AboutBtn">About the amazing game</string>
+    <string name="ScoresBtn">Scores</string>
+    <string name="ScoreTextView">YOUR SCORE IS</string>
+    <string name="ReplayBtn">Replay</string>
+    <string name="MainMenuBtn">Go To Main Menu</string>
+</resources>
